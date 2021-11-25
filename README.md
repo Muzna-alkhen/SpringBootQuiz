@@ -21,3 +21,6 @@ This is a Test quiz made up for maids.cc company
 - slf4j.Logger
 - logging level -> info
 
+# Class Diagram :
+
+![Class Diagram](https://user-images.githubusercontent.com/55164578/143455444-a9342b54-752a-427d-b41d-258b9bb23c32.png)
